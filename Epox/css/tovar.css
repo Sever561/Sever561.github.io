@@ -1,0 +1,14 @@
+.bottom{
+    margin-top: 5%;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.info {
+    margin-left: 5%;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    
+}
+
