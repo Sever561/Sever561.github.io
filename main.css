@@ -272,3 +272,6 @@
     text-decoration: none;
     color: black;
 }
+
+.list-item-text-4:hover{
+	text-decoration: outline;
