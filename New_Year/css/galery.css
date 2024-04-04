@@ -1,0 +1,59 @@
+body{
+	background: #d9acb3;
+}
+
+.main{
+	width: 80%;
+	margin: auto;
+}
+
+.galery-wrapper{
+	width: 100%;
+	columns: 5;
+	column-gap: 2;
+	padding-top: 100px;
+}
+
+.element{
+	width: 100%;
+}
+
+.first-group{
+	filter: grayscale(45%);
+}
+
+.second-group{
+	filter: blur(2px);
+}
+
+.third-group{
+	filter: brightness(0.4);
+}
+
+.fourth-group{
+	filter: contrast(100%);
+}
+
+.fifth-group{
+	filter: hue-rotate(180deg);
+}
+
+.sixth-group{
+	filter: drop-shadow(16px 16px 20px orange);
+}
+
+.seventh-group{
+	filter: invert(90%);
+}
+
+.eighth-group{
+	filter: opacity(50%);
+}
+
+.ninth-group{
+	filter: saturate(30%);
+}
+
+.tenth-group{
+	filter:  sepia(100%);
+}
